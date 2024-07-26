@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a terminal-based game inspired by the "Water Sort" genre. The game was designed with OOP principles in Java. The main concepts covered in this project include classes, abstraction, visibility, inheritance, and encapsulation. 
+This project is a terminal-based game inspired by the "Water Sort" genre. The main concepts covered in this project include classes, abstraction, visibility, inheritance, and encapsulation. 
 
 ## Features
 
