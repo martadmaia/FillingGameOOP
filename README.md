@@ -31,25 +31,6 @@ This project is a terminal-based game inspired by the "Water Sort" genre. The ma
 └── UML.png
 ```
 
-## Installation and Setup
-
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/martadmaia/FillingGameOOP.git
-    cd FillingGameOOP.git
-    ```
-
-2. **Compile the Java Files**:
-    ```sh
-    javac types/*.java
-    javac execution/*.java
-    ```
-
-3. **Run the Game**:
-    ```sh
-    java execution/main
-    ```
-
 ## UML Diagram
 
 ![UML Diagram](UML.png)
